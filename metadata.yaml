@@ -1,0 +1,31 @@
+_repo: Samuel-Johnson_11031
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: 1. Childhood and early life; 2. Literary career; 3. Johnson and his friends;
+  Johnson as a literary dictator; 5. The closing years of Johnson's life; 6. Johnson's
+  writings
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lexicographers -- Great Britain -- Biography'
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcc 'PR'
+- !lcsh 'Johnson, Samuel, 1709-1784'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- GITenberg
+title: Samuel Johnson
+url: http://www.gutenberg.org/ebooks/11031
