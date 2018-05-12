@@ -1,5 +1,8 @@
 _repo: Samuel-Johnson_11031
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stephen, Leslie
@@ -12,6 +15,8 @@ creator:
 description: 1. Childhood and early life; 2. Literary career; 3. Johnson and his friends;
   Johnson as a literary dictator; 5. The closing years of Johnson's life; 6. Johnson's
   writings
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11031#Samuel-Johnson
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
